@@ -31,13 +31,7 @@ Step 7: Save and run the application.
 
 
 ## </br></br></br></br></br></br></br>PROGRAM:
-```
-/*
-Program to Create a simple application for Run-Time Permission”.
-Developed by: SURYA R
-Registeration Number : 212220230052
-*/
-```
+
 Activity_Main.xml
 
 
